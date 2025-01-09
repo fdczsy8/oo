@@ -1,5 +1,5 @@
 ﻿{
-  "spider": "./xyqxbpq.jar",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/oo/refs/heads/main/wpx/xyqxbpq.jar",
   "lives": [
     {
       "name": "直播",
@@ -257,7 +257,7 @@
       "name": "💡电影港",
       "type": 3,
       "api": "csp_Dygang",
-      "jar": "./fix24726.jar"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/oo/refs/heads/main/wpx/fix24726.jar"
     },
            {
       "key": "mp4",
@@ -265,8 +265,37 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "playerType": 2,
-      "jar": "./xyqxbpq.jar",
-      "ext": "./mp4影视.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/oo/refs/heads/main/wpx/xyqxbpq.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/oo/refs/heads/main/wpx/mp4影视.json"
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "360_spider",
+      "name": "🐞360影视",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    },
+ {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://apijp.rinhome.com"
     },
       {
       "key": "迅雷8",
@@ -287,7 +316,7 @@
       "name": "玩偶┃4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./xm.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/oo/refs/heads/main/wpx/xm.jar",
       "changeable": 0,
       "filterable": 1,
       "ext": {
@@ -308,7 +337,7 @@
       "name": "至臻┃4K",
       "type": 3,
       "api": "csp_Duopan",
-       "jar": "./xm.jar",
+       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/oo/refs/heads/main/wpx/xm.jar",
       "changeable": 0,
       "filterable": 1,
       "ext": {
@@ -328,7 +357,7 @@
     {
       "key": "csp_UC",
       "name": "小米┃4K",
-      "jar": "./xm.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fdczsy8/oo/refs/heads/main/wpx/xm.jar",
       "type": 3,
       "api": "csp_MiUc",
       "changeable": 0,
