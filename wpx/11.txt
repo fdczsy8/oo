@@ -4,7 +4,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "https://2912.kstore.space/520.txt",
+      "url": "https://gitee.com/zsygong/yyds/raw/master/%23%E6%B1%9F%E8%A5%BFPLTV%E8%B5%A3%E5%B7%9E%E7%A7%BB%E5%8A%A8ip%E7%89%88.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -297,20 +297,6 @@
       "filterable": 1,
       "ext": "http://apijp.rinhome.com"
     },
-      {
-      "key": "迅雷8",
-      "name": "🥇迅雷磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "图片": "data-original=\"&&\"",
-        "播放数组": "copylink&&</a >",
-        "播放链接": "alt=\"&&\"",
-        "简介": "b1f40f7888\"&&</p >",
-        "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
-        "分类": "电视剧$tv#电影$list"
-      }
-    }, 
   {
       "key": "csp_Wogg",
       "name": "玩偶┃4K",
